@@ -1,0 +1,40 @@
+:root {
+  /* fonts */
+  --font-futura: Futura;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 20px;
+  --font-size-xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-orange-100: #ffa655;
+  --color-orange-200: #ffbb0b;
+  --color-orange-300: #ffab2e;
+  --color-orange-400: #e5a300;
+  --color-gray-100: rgba(255, 255, 255, 0.87);
+  --color-gray-200: rgba(255, 255, 255, 0.5);
+  --color-gray-300: rgba(0, 0, 0, 0.65);
+  --color-gray-400: rgba(255, 255, 255, 0.8);
+  --color-gold: #ffc122;
+  --color-beige: #fff7e2;
+
+  /* Gaps */
+  --gap-xs: 2px;
+  --gap-sm: 8px;
+  --gap-md: 12px;
+  --gap-lg: 16px;
+
+  /* Paddings */
+  --padding-sm: 8px;
+  --padding-md: 12px;
+
+  /* border radiuses */
+  --br-xs: 12px;
+  --br-sm: 16px;
+  --br-md: 23px;
+  --br-lg: 100px;
+  --br-xl: 1000px;
+}
