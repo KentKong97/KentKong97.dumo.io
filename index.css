@@ -119,7 +119,6 @@ body {
   color: var(--color-white);
 }
 .tap-here-to-earn-more-points-i {
-  cursor: pointer;
   border: 0;
   padding: 0;
   background-color: transparent;
@@ -145,6 +144,8 @@ body {
   text-align: left;
 }
 .frame-div7 {
+  cursor: pointer;
+  outline: none;
   position: absolute;
   top: 146px;
   left: 18.13px;
