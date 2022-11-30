@@ -285,6 +285,9 @@ body {
     left: 41.5%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
