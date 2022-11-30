@@ -203,6 +203,9 @@ body {
   left: 7%;
   width: 965px;
   height: 594px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .frame-div10 {
@@ -215,6 +218,9 @@ body {
   height: 501px;
   font-size: var(--font-size-xl);
   color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 }
 
@@ -227,6 +233,9 @@ body {
   left: 10%;
   width: 965px;
   height: 594px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .frame-div10 {
@@ -239,6 +248,9 @@ body {
   height: 501px;
   font-size: var(--font-size-xl);
   color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 }
 
@@ -250,6 +262,9 @@ body {
   left: 13%;
   width: 965px;
   height: 594px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .frame-div10 {
@@ -262,6 +277,9 @@ body {
   height: 501px;
   font-size: var(--font-size-xl);
   color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 }
 
@@ -273,6 +291,9 @@ body {
   left: 30.5%;
   width: 965px;
   height: 594px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .frame-div10 {
@@ -285,6 +306,9 @@ body {
   height: 501px;
   font-size: var(--font-size-xl);
   color: var(--color-white);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 }
 
@@ -296,6 +320,9 @@ body {
     left: 34.5%;
     width: 965px;
     height: 594px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   .frame-div10 {
@@ -308,6 +335,9 @@ body {
     height: 501px;
     font-size: var(--font-size-xl);
     color: var(--color-white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 }
 
@@ -319,6 +349,9 @@ body {
     left: 41.5%;
     width: 965px;
     height: 594px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   .frame-div10 {
@@ -331,6 +364,9 @@ body {
     height: 501px;
     font-size: var(--font-size-xl);
     color: var(--color-white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 }
 

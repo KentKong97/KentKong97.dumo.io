@@ -240,6 +240,9 @@ body {
     top: 25%;
     left: 7.5%;
     flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -249,6 +252,9 @@ body {
     top: 26%;
     left: 12%;
     flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -258,6 +264,9 @@ body {
     top: 26%;
     left: 30%;
     flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -267,6 +276,9 @@ body {
     top: 33%;
     left: 34.5%;
     flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -276,6 +288,9 @@ body {
     top: 21%;
     left: 41.5%;
     flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -286,6 +301,9 @@ body {
     left: 30.5%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -296,6 +314,9 @@ body {
     left: 7.5%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -306,6 +327,9 @@ body {
     left: 13%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -316,6 +340,9 @@ body {
     left: 34.5%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -326,6 +353,9 @@ body {
     left: 41.5%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 

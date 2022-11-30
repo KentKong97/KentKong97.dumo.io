@@ -245,6 +245,9 @@ body {
     left: 7.5%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -255,6 +258,9 @@ body {
     left: 12.5%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -265,6 +271,9 @@ body {
     left: 30%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
@@ -275,6 +284,9 @@ body {
     left: 34.5%;
     flex-direction: column;
     gap: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
