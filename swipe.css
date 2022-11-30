@@ -177,6 +177,7 @@ body {
   display: inline-block;
 }
 .frame-div21 {
+  cursor: pointer;
   position: absolute;
   top: calc(50% + 137.5px);
   left: 235px;
@@ -272,7 +273,7 @@ body {
 @media screen and (min-width:1024px) and (max-width: 1999px) {
   .frame-div22 {
     position: absolute;
-    top: 26%;
+    top: 21%;
     left: 41.5%;
     flex-direction: column;
   }
