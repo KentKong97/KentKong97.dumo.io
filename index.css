@@ -250,8 +250,8 @@ body {
 @media screen and (min-width:375px) and (max-width:767px) {
   .frame-form {
     position: absolute;
-    top: 15%;
-    left: 13%;
+    top: 13%;
+    left: 12.5%;
     flex-direction: column;
     gap: 40px;
   }
