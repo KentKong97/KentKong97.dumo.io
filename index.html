@@ -57,6 +57,34 @@
             
         }
 
+        .btn {
+            position: absolute;
+            top: 82%;
+            left: 32%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            font-size: 16px;
+            padding: 12px 24px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        @media screen and (min-width:360px) and (max-width:374px) {
+            .btn {
+            position: absolute;
+            top: 82%;
+            left: 83%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            font-size: 16px;
+            padding: 12px 24px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        }
+
         @media screen and (min-width:375px) and (max-width:389px) {
             .owl-carousel .owl-item img {
                 display: block;
@@ -66,6 +94,19 @@
             img {
                 height: 460px;
             }
+
+            .btn {
+                position: absolute;
+                top: 82%;
+                left: 85%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+            }
         }
 
         @media screen and (min-width:390px) and (max-width:400px) {
@@ -73,12 +114,25 @@
                 display: block;
                 width: 255px;
             }
+
+            .btn {
+                position: absolute;
+                top: 82%;
+                left: 75%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+            }
         }
 
         @media screen and (min-width:412px) and (max-width:767px) {
             .owl-carousel .owl-item img {
                 display: block;
-                width: 260px;
+                width: 270px;
                 margin-left: -0.5px;
             }
 
@@ -106,6 +160,19 @@
                 margin-bottom: 1.5rem!important;
                 margin-right: -15px;
             }
+
+            .btn {
+                position: absolute;
+                top: 82%;
+                left: 80%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+            }
             
         }
 
@@ -114,12 +181,38 @@
                 display: block;
                 width: 275px;
             }
+
+            .btn {
+                position: absolute;
+                top: 82%;
+                left: 32%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+            }
         }
 
         @media screen and (min-width:820px) and (max-width:1023px) {
             .owl-carousel .owl-item img {
                 display: block;
                 width: 275px;
+            }
+
+            .btn {
+                position: absolute;
+                top: 82%;
+                left: 32%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
             }
         }
 
@@ -136,11 +229,30 @@
                 margin-right: -10rem;
                 margin-left: 26.5rem;
             }
+
+            .btn {
+                position: absolute;
+                top: 82%;
+                left: 32%;
+                transform: translate(-50%, -50%);
+                -ms-transform: translate(-50%, -50%);
+                font-size: 16px;
+                padding: 12px 24px;
+                border: none;
+                cursor: pointer;
+                border-radius: 5px;
+            }
             
         }
 
         .main {
             top:0;
+        }
+
+        
+        .modal-content {
+            background:transparent !important;
+            border: none !important;
         }
 
     </style>
@@ -182,7 +294,8 @@
                     </div>
                     <div class="item">
                         <div class="card border-0" >
-                            <img src="public/image_3.png" alt="" class="card-img-top" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                            <img src="public/image_3.png" alt="" class="card-img-top">
+                            <button class="btn" data-bs-toggle="modal" data-bs-target="#exampleModal"></button>
                         </div>
                         </div>
                     </div>
